@@ -1,2 +1,2 @@
 # pcxchat
-聊天
+pcxchat.github.io
